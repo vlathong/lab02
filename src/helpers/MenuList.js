@@ -14,6 +14,11 @@ import WaitingForLove from "../assets/WaitingForLove.jpg"
 
 export const MenuList = [
   {
+    name: "Vì sao",
+    image: ViSao,
+    author: "Chillies",
+  },
+  {
     
     name: "Waiting For Love",
     image: WaitingForLove,
@@ -53,11 +58,6 @@ export const MenuList = [
     name: "Stay",
     image: Stay,
     author: "Justin Bieber & Kid Laroi",
-  },
-  {
-    name: "Vì sao",
-    image: ViSao,
-    author: "Chillies",
   },
   {
     name: "Có em",
