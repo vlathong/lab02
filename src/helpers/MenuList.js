@@ -3,7 +3,7 @@ import Despacito from "../assets/despacito.jpg";
 import SeeYouAgain from "../assets/SeeYouAgain.jpg";
 import GangnamStyle from "../assets/GangnamStyle.jpg";
 import AgentP from "../assets/AgentP.jpg";
-import ChungTaCuaHienTai from "../assets/ChungTaCuaHienTai.jpg";
+//import ChungTaCuaHienTai from "../assets/ChungTaCuaHienTai.jpg";
 import Stay from "../assets/stay.jpg"
 import CoEm from "../assets/coem.jpg"
 import ViSao from "../assets/visao.jpg"
@@ -48,11 +48,6 @@ export const MenuList = [
     name: "Agent P",
     image: AgentP,
     author: "Randy Crenshaw",
-  },
-  {
-    name: "Chúng ta của hiện tại",
-    image: ChungTaCuaHienTai,
-    author: "Sơn Tùng MTP",
   },
   {
     name: "Stay",

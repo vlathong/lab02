@@ -1,6 +1,6 @@
 import React from "react";
 import wallpaper from "../assets/wallpaper.jpg";
-//import "../styles/Contact.css";
+import "../styles/Contact.css";
 import { Link } from "react-router-dom";
 
 function Contact() {
