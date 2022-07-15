@@ -1,14 +1,14 @@
 import React from 'react'
 import { Link } from "react-router-dom";
-import BannerImage from "../assets/banner2.jpg";
+import BannerImage from "../assets/banner3.jpg";
 //import "../styles/Home.css";
 
 function Home() {
   return (
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
       <div className="headerContainer">
-        <h1> Sơn Tùng MTP </h1>
-        <p> Hit hot nhất năm 2022 </p>
+        <h1> Avicii </h1>
+        <p> Waiting For Love </p>
         <Link to="/menu">
           <button> Trải nghiệm </button>
         </Link>
