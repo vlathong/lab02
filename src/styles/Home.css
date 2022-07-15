@@ -8,7 +8,8 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    
+    font-family: cursive;
   }
   
   .headerContainer {
@@ -44,6 +45,7 @@
     color: white;
     text-decoration: none;
     font-size: 20px;
+    font-family: cursive;
   }
   
   .headerContainer button:hover {
